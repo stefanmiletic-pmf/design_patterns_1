@@ -3,16 +3,10 @@
 
 # Short summary:
 Combining patterns:
-Abstract factory - as vehicle shop
-Proxy            - as middle man between vehicle and client
-Visitor          - as vehicle workshop 
-Interpreter      - as client language compiler
-
-# Used patterns:
-Interpreter
-Abstract factory
-Proxy
-Visitor
+* Abstract factory - as vehicle shop
+* Proxy            - as middle man between vehicle and client
+* Visitor          - as vehicle workshop 
+* Interpreter      - as client language compiler
 
 
 
